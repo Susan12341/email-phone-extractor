@@ -1,0 +1,13 @@
+[
+  {
+    "email": "info@example.com",
+    "phone": "+1 202 555 0147",
+    "linkedin": "https://www.linkedin.com/company/example",
+    "twitter": "https://x.com/example",
+    "instagram": "https://www.instagram.com/example",
+    "facebook": "https://www.facebook.com/example",
+    "youtube": "https://www.youtube.com/example",
+    "logo": "https://example.com/assets/logo.png",
+    "url": "https://example.com"
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "email": "bill@gates.com",
+        "phone": "+1234455667",
+        "linkedin": "https://www.linkedin.com/in/williamhgates/",
+        "twitter": "https://x.com/billgates",
+        "instagram": "https://www.instagram.com/thisisbillgates/",
+        "facebook": "https://www.facebook.com/BillGates/",
+        "youtube": "https://www.youtube.com/billgates"
+    },
+    {
+        "email": "maxi+guillim@example.co.uk",
+        "phone": "00123456789",
+        "linkedin": "https://en.linkedin.com/in/example",
+        "twitter": "https://x.com/maxiguillim",
+        "instagram": "https://www.instagram.com/maxiguillim/",
+        "facebook": "https://www.facebook.com/maxiguillim/",
+        "youtube": "https://www.youtube.com/maxiguillim"
+    }
+]
